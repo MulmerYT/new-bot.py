@@ -1,0 +1,5 @@
+0 Dinosaurios
+1 Gente
+2 Mono
+3 Palomas
+4 Gorriones
